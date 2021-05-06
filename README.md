@@ -23,3 +23,8 @@ And then, with javaScript, do:
 ```javascript
 F.format(document.getElementById("format"));
 ```
+
+You can embed it on your website using jsDelivr:
+```html
+<script src="https://cdn.jsdelivr.net/gh/ProgrammingParadox/F.js@main/main.js"></script>
+```
